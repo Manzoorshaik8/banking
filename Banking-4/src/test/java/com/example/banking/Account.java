@@ -17,7 +17,7 @@ public class Account {
 		
 	}
 	{
-		String name ="ravi";
+		String name ="sam";
 	}
 }
 
